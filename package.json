@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamdavidharrison/is-a-good-dev-cli.git"
+    "url": "git+https://github.com/is-a-good-dev/cli.git"
   },
   "keywords": [
     "cli",
@@ -20,7 +20,7 @@
   "author": "William Harrison <william@williamharrison.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/williamdavidharrison/is-a-good-dev-cli/issues"
+    "url": "https://github.com/is-a-good-dev/cli/issues"
   },
   "homepage": "https://www.npmjs.com/package/@is-a-good-dev/cli",
   "dependencies": {
