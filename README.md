@@ -1,2 +1,2 @@
-# is-a-good-dev-cli
-CLI for is-a-good.dev
+# is-a-good.dev CLI
+Register your is-a-good.dev subdomain from your command line!
