@@ -3,7 +3,7 @@ Register your own is-a-good.dev subdomain from your command line!
 
 ## Getting Started
 
-Using the Free Domains CLI is easy!
+Using the is-a-good.dev CLI is easy!
 
 All you need to do is run the following command:
 
