@@ -1,6 +1,6 @@
 {
   "name": "@is-a-good-dev/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Register your own is-a-good.dev subdomain from your command line!",
   "main": "src/index.js",
   "bin": {
@@ -11,12 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/is-a-good-dev/cli.git"
   },
-  "keywords": [
-    "cli",
-    "domains",
-    "easy",
-    "free-domains"
-  ],
+  "keywords": [],
   "author": "William Harrison <william@williamharrison.dev>",
   "license": "MIT",
   "bugs": {
@@ -34,6 +29,5 @@
     "meow": "^9.0.0",
     "node-fetch": "^2.6.7",
     "prompts": "^2.4.2"
-  },
-  "devDependencies": {}
+  }
 }
