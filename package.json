@@ -20,7 +20,7 @@
   "homepage": "https://npmjs.com/@is-a-good-dev/cli",
   "dependencies": {
     "@octokit/auth-oauth-device": "^7.1.0",
-    "@octokit/core": "^5.0.1",
+    "@octokit/core": "^6.1.2",
     "cli-handle-unhandled": "^1.1.1",
     "cli-meow-help": "^3.1.0",
     "cli-welcome": "^2.2.2",
