@@ -23,7 +23,7 @@
     "@octokit/core": "^5.0.1",
     "cli-handle-unhandled": "^1.1.1",
     "cli-meow-help": "^3.1.0",
-    "cli-welcome": "^2.2.2",
+    "cli-welcome": "^3.0.0",
     "conf": "^10.2.0",
     "js-base64": "^3.7.5",
     "meow": "^9.0.0",
