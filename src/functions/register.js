@@ -67,7 +67,7 @@ let fullContent = `{
     const contentEncoded = Base64.encode(fullContent);
 
     fetch(
-        `https://api.github.com/repos/is-a-good-dev/register/contents/sub-logs/${subdomain}.json`,
+        `https://api.github.com/repos/is-a-good-dev/register/contents/domains/${subdomain}.json`,
         {
             method: "GET",
             headers: {
@@ -80,7 +80,7 @@ let fullContent = `{
                 .request("PUT /repos/{owner}/{repo}/contents/{path}", {
                     owner: username,
                     repo: forkName,
-                    path: "sub-logs/" + subdomain + ".json",
+                    path: "domains/" + subdomain + ".json",
                     message: `feat(domain): add \`${subdomain}.is-a-good.dev\``,
                     content: contentEncoded
                 })

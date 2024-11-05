@@ -13,7 +13,7 @@ module.exports = async function check() {
     const subdomain = response.subdomain.toLowerCase();
 
     fetch(
-        `https://api.github.com/repos/is-a-good-dev/register/contents/sub-logs/${subdomain}.json`,
+        `https://api.github.com/repos/is-a-good-dev/register/contents/domains/${subdomain}.json`,
         {
             method: "GET",
             headers: {
